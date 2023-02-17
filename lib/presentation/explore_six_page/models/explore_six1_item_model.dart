@@ -1,0 +1,1 @@
+class ExploreSix1ItemModel {}
